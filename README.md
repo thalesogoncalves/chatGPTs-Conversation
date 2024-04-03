@@ -1,4 +1,8 @@
-# chatGPTs_Conversation
-What if one chatGPT talked to another? How would that conversation go?
+# chatGPTs Conversation
+How would a conversation between two chatGPTs go?
 
-testt
+<p align="center">
+<img src="Files/Conversation Sample.png" height=350>
+</p>
+
+This project uses openAI's API to access ChatGPT to evolve a conversation among different instances of LLMs.
